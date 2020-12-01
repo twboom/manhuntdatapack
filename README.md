@@ -1,2 +1,2 @@
-# manhunt
-A datapack for a Minecraft Manhunt (multiplayer)
+# Manhunt
+A datapack for a Minecraft Manhunt event with multiple people. Compatibility is not guaranteed.
